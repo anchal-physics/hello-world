@@ -2,4 +2,4 @@
 Hello World Project
 
 Hi everyone,
-Sems like I'm helping you learn something cool. Go on.
+Seems like I'm helping you learn something cool. Go on.
